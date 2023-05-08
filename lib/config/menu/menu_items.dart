@@ -13,3 +13,9 @@ class MenuItem {
     required this.icon,
   });
 }
+/***
+ * 
+ * git remote add origin https://github.com/BryanSandoval/widgets_app_cflutter.git
+git branch -M main
+git push -u origin main
+*/
