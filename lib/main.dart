@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Material App',
       debugShowCheckedModeBanner: false,
-      theme: AppTheme(selectedColor: 6).getTheme(),
+      theme: AppTheme(selectedColor: 0).getTheme(),
       home: const HomeScreen(),
     );
   }
